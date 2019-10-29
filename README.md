@@ -1,88 +1,67 @@
 # Project Title
 
-One Paragraph of project description goes here
+How to Host Your Resume on GitHub Pages
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This is just an instruction set that will guide a user on how to go about writing or editing a resume in Atom using Markdown and hosting that resume on a Github page using a static website generator called Jekyll. The instructions are intended for individuals who are not fully skilled in the knowledge of either Atom, Github Pages, Jekyll or Markdown.
 
-### Prerequisites
+## Prerequisites
 
-What things you need to install the software and how to install them
+Softwares that needed to be installed for this process are a Markdown text editor (Atom used in this process) and a static website generator (Jekyll used in this process). Users would also need to create an account on GitHub Pages.
 
-```
-Give examples
-```
+| Software | Description |  
+| -------  | -------     |
+| Atom     | Atom is the text editor used in this project to edit/write a resume in Markdown. |  
+| Jekyll  | Jekyll is a static generator website which you can use to host sites right from your Github repositories. |
+| Github | GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. |
 
-### Installing
 
-A step by step series of examples that tell you how to get a development env running
+**Installing Atom:**
+- Go to [Atom Homepage](https://atom.io/)
+- Click on "**Download**"
+- Follow the on-screen instructions to complete the installation on your system.
 
-Say what the step will be
+**Installing Jekyll:**  
+- Go to [Jekyll Docs Page](https://jekyllrb.com/docs/)
+- Follow the detailed instructions on the installation process.
 
-```
-Give the example
-```
+**Create an account on Github:**
+- Go to [GitHub Homepage](https://github.com/)  
+- If you already have a Github account fill-in your details and click on sign-in, if not fill-in your details and click sign-up.
 
-And repeat
+## Instructions
 
-```
-until finished
-```
+#### How to post a resume on GitHub Pages
+Before anything you would need to edit/write a resume to be posted, it should be edited/written in Markdown (saved as a .md file) using Atom (as in this project) or any Markdown text editor.
+1. Once the resume has been edited properly in Markdown, open your Github account created earlier. This is your GitHub Page.
+2. On the hompage, at the top-right corner you should see a plus sign dropdown "**+**", click on it.
+3. After clicking a dropdown box should appear, then click on "**New Repository**". This should take you to the **Create New Repository** page.
+4. Once here fill out the information required, this is indicated with the red asterisks.
+5. Tick the box that says "**Initialize this repository with a README**". This would help you clone the repository to your computer. Then click on **Create Repository**. Once this is done it takes you to your repository homepage
+6. Once here, just before the list of your current files, you should see a button called "**Upload Files**", click on it.
+7. Select the ".md" file which you saved your edited resume with and click on upload. This should upload your resume unto your Github Page.
 
-End with an example of getting some data out of the system or using it for a little demo
+#### How to format a resume using a Jekyll supported theme
+1. After uploading resume unto your Github Page, on the homepage of your GitHub, at the right hand side you should see a **Settings** tab, click on it.
+2. This takes you to the repository settings page, when here scroll down to "**Github Pages**" section and click on **Change Theme**
+3. This should take you to a page to select from a range of Jekyll themes, select a theme that you feel best complements your resume then click on **Select Theme**.
+4. Once this is done, your resume has been automatically formatted using the selected theme.
 
-## Running the tests
 
-Explain how to run the automated tests for this system
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
+## More Resources
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+## Authors & Acknowledgments
 
-## Authors
+* **Enesi Jatto** - *Initial work* - [Webpage](https://mjatto.github.io/)
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+See also the list of contributors:
+* 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+## FAQ (Frequently Asked Questions)
+1. 
