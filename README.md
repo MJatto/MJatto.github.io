@@ -70,5 +70,6 @@ List of contributors:
 
 ## FAQ (Frequently Asked Questions)
 1. Can I change my Jekyll theme anytime?  
-    **Ans:** Yes! Your initial Jekyll theme can be changed at anytime. Simply follow the same steps for formatting a resume using a Jekyll theme.
-2.
+    **Ans:** Yes. Your initial Jekyll theme can be changed at anytime. Simply follow the same steps for formatting a resume using a Jekyll theme.
+2. Can I use any filename for my Resume?  
+    **Ans:** No. The filename for your resume or document to be hosted has to be saved as "index.md".
